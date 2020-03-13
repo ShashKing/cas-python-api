@@ -1,0 +1,8 @@
+flask = "*"
+flask-restful = "*"
+request = "*"
+pytesseract = "*"
+pillow = "*"
+gunicorn = "*"
+pymupdf == "1.14.20"
+flask-cors = "*"
